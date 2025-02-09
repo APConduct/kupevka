@@ -1,0 +1,9 @@
+[buildPlans.Kupsevka]
+family = "kupsevka"
+spacing = "term"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = false
+
+  [buildPlans.Kupsevka.variants]
+  inherits = "ss14"
